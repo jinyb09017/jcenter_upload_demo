@@ -1,0 +1,2 @@
+# jcenter_upload_demo
+这是将项目发布到jcenter一个的测试例子
